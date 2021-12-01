@@ -1,46 +1,43 @@
-# Group One - Introduction to Bioinformatics
+# Group Ten - Introduction to Bioinformatics
 
 ## About this Group
 
-This group is the group 1, and it consist of 15 Members, the group is led by Abubakar Mahmood Garba. The group collaborates with a programmer [Abdulhakeem](https://github.com/aoamusat) to make sure that the assignment is conducted as expected by the lecturer.
+This group is the group 10, and it consist of 11 Members, the group is led by Abubakar Yusuf Lawan. The group collaborates with a collegue  [Abubakar](https://github.com/SadeeqMg01) to make sure that the assignment is conducted as expected by the lecturer.
 
 ## List of Group Member
 
-- Abubakar Mahmood Garba        (BASUG/UG/BHS/ANA/18/003)
-- Lukman Isah Musa              (BASUG/UG/BHS/ANA/18/001)
-- Masud Adam                    (BASUG/UG/BHS/ANA/18/008)
-- Sa'eed Bello                  (BASUG/UG/BHS/ANA/18/014)
-- Hafsat Ahmad Haruna           (BASUG/UG/BHS/ANA/18/012)
-- Nura Gali                     (BASUG/UG/BHS/ANA/18/007)
-- Adamu Aliyu Dahiru            (BASUG/UG/BHS/ANA/18/015)
-- Hajara Halliru Jahun          (BASUG/UG/BHS/ANA/18/010)
-- Asiya Yahaya                  (BASUG/UG/BHS/ANA/18/005)
-- Hauwau Musa                   (BASUG/UG/BHS/ANA/18/004)
-- Khalid Ibrahim                (BASUG/UG/BHS/ANA/18/013)
-- Abdullahi Abdulmumini         (BASUG/UG/BHS/ANA/18/009)
-- Saleh Salisu                  (BASUG/UG/BHS/ANA/18/006)
-- Musa Muhammad Baba            (BASUG/UG/BHS/ANA/18/011)
-- Muhammad Auwal Idris          (BASUG/UG/BHS/ANA/18/016)
+- Abubakar Yusuf Lawan        
+- Ibrahim Muhammed Itas              
+- Bilyaminu Jibrin                    
+- Maryam Sabiu                  
+- Muhammad Bashir Said           
+- Safiya Musa Saleh                     
+- Aishatu Musa Liman            
+- Balkisu Muhammad Kani          
+- Abdulazeez Musa                  
+-                    
+-                 
+- Abdullahi Abdulmumini         
+- Saleh Salisu                  
+- Musa Muhammad Baba            
+- Muhammad Auwal Idris          
 
 ## Programming Languages Used
 
 | Student Name | Programming Language | Dependencies |
 | :---: | :---: | :---: |
-| Abubakar Mahmood Garba | Python | None |
-| Lukman Isah Musa | R | None |
-| Masud Adam | Python | None |
-| Sa'eed Bello | Python | None |
-| Hafsat Ahmad Haruna | Java | None |
-| Nura Gali | R | None |
-| Adamu Aliyu Dahiru | Bash | None |
-| Hajara Halliru Jahun | Java | None |
-| Asiya Yahaya | Python | None |
+| Abubakar Yusuf Lawan | R | None |
+| Ibrahim Muhammed Itas M | Python | None |
+| Bilyaminu Jibrin | R | None |
+| Maryam Sabiu | C++ | None |
+| Bashir Muhammad Said | R | None |
+| Safiya Musa Saleh | R | None |
+| Balkisu Muhammad Kani | R | None |
+| Aishatu Musa Liman | R | None |
+| Abdulazeez Musa | R | None |
 | Hauwau Musa | R | None |
 | Khalid Ibrahim | Python | None |
-| Abdullahi Abdulmumini | Javascript | None |
-| Saleh Salisu | Python | None |
-| Musa Muhammad Baba | Javascript | None |
-| Muhammad Auwal Idris | R | None |
+
 
 ## Workflow
 
