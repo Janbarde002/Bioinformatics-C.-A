@@ -18,8 +18,8 @@ This is the repository for the task assigned to group ten, it consist of 11 Memb
 - Aishatu Musa Liman            
 - Balkisu Muhammad Kani          
 - Abdulazeez Musa                  
--                    
--                          
+- Maryam Baba                   
+- Emmanuel Majesty                         
 
 ## Programming Languages Used
 
