@@ -31,8 +31,6 @@ This is the repository for the task assigned to group ten, it consist of 11 Memb
 | Balkisu Muhammad Kani | R | None |
 | Aishatu Musa Liman | R | None |
 | Abdulazeez Musa | R | None |
-| Hauwau Musa | R | None |
-| Khalid Ibrahim | Python | None |
 
 
 ## Workflow
