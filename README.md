@@ -1,5 +1,8 @@
 # Group Ten - Introduction to Bioinformatics
 
+## About Bioinformatics
+
+Bioinformatics includes biological studies that use computer programming as part of their methodology, as well as a specific analysis "pipelines" that are repeatedly used, particularly in the field of genomics. Common uses of bioinformatics include the identification of candidates genes and single nucleotide polymorphisms (SNPs).
 ## About this Group
 
 This is the repository for the task assigned to group ten, it consist of 11 Members, the group is led by Abubakar Yusuf Lawan. The group collaborates with a collegue  [Abubakar](https://github.com/SadeeqMg01) to make sure that the assignment is conducted as expected by the lecturer.
