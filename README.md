@@ -12,11 +12,11 @@ This is the repository for the task assigned to group ten, it consist of 11 Memb
 - Abubakar Yusuf Lawan        
 - Ibrahim Muhammed Itas              
 - Bilyaminu Jibrin                    
-- Maryam muhammad Sabiu                  
+- Maryam Muhammad Sabiu                  
 - Muhammad Bashir Said           
 - Safiya Musa Saleh                     
 - Aishatu Musa Liman            
-- Balkisu Muhammad Kani          
+- Balkisu Ibrahim Kani          
 - Abdulazeez Musa                  
 - Maryam Baba                   
 - Emmanuel Majesty                         
