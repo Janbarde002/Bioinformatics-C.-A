@@ -31,7 +31,7 @@ This is the repository for the task assigned to group ten, it consist of 11 Memb
 | Maryam Sabiu | C++ | None |
 | Bashir Muhammad Said | R | None |
 | Safiya Musa Saleh | R | None |
-| Balkisu Muhammad Kani | R | None |
+| Balkisu Ibrahim Kani | R | None |
 | Aishatu Musa Liman | R | None |
 | Abdulazeez Musa | R | None |
 
